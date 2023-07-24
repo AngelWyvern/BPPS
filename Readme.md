@@ -38,4 +38,4 @@ When you're ready, you can enable the tool with the "Enable Simulator" button. Y
 
 Once finished, you can simply disable the tool with the "Disable Simulator" button, and everything will return to normal functionality.
 
-![(tool preview)](docs/preview.mp4)
+https://github.com/AngelDTF/BPPS/assets/43016525/eaa52d12-d198-4738-9354-92ab961cdd21
