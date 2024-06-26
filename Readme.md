@@ -2,7 +2,7 @@
 BPPS is an addon for Blender that simulates pen pressure while texture painting by increasing the brush's stroke size based on mouse pointer speed.
 
 ## Installation
-Download [BPPSim.py](https://github.com/AngelDTF/BPPS/blob/main/BPPSim.py). Open the Blender preferences (Edit > Preferences...), and go to the "Add-ons" page in the sidebar. On the top right, press the install button, and open the Python script you just downloaded. Lastly, make sure the checkbox is ticked next to the addon name. 
+Download [BPPSim.py](https://github.com/AngelWyvern/BPPS/blob/main/BPPSim.py). Open the Blender preferences (Edit > Preferences...), and go to the "Add-ons" page in the sidebar. On the top right, press the install button, and open the Python script you just downloaded. Lastly, make sure the checkbox is ticked next to the addon name. 
 
 ## Usage
 Under the tool properties tab, you'll see a new "Pressure Simulator" panel.
@@ -38,4 +38,4 @@ When you're ready, you can enable the tool with the "Enable Simulator" button. Y
 
 Once finished, you can simply disable the tool with the "Disable Simulator" button, and everything will return to normal functionality.
 
-https://github.com/AngelDTF/BPPS/assets/43016525/eaa52d12-d198-4738-9354-92ab961cdd21
+https://github.com/AngelWyvern/BPPS/assets/43016525/eaa52d12-d198-4738-9354-92ab961cdd21
